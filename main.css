@@ -1,0 +1,17 @@
+/* Inserta tu CSS aqui */
+div{
+	background-color: #808080;
+	border: 1px solid #000000;
+}
+.dentro{
+	height: 107px;
+	width: 315px;
+	margin: 5px;
+	}
+.fuera {
+	
+	height: 90px;
+	width: 90px;
+	margin: 8px 5px 5px 5px;
+	display: inline-block;
+	}
